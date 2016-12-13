@@ -30,6 +30,7 @@
 #include <cctype>
 #include <iterator>
 #include <apr.h>
+#include <stdlib.h>
 
 
 using namespace log4cxx;
